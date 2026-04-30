@@ -80,11 +80,6 @@ Top level domain expansion
 <img width="1718" height="612" alt="image" src="https://github.com/user-attachments/assets/c09ab4ea-8993-4bc6-9d3a-02f37329d851" />
 
 
-
-
-
-
-
 ## dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
@@ -98,11 +93,12 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+
 ## OUTPUT 
 <img width="748" height="944" alt="image" src="https://github.com/user-attachments/assets/e3c4fe1b-e153-4d28-8c6e-66dce2369a8c" />
+
+
 <img width="722" height="346" alt="image" src="https://github.com/user-attachments/assets/e929bf14-7373-4b38-8beb-d497ba949cd9" />
-
-
 
 ## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
@@ -124,13 +120,9 @@ and issue appropriate commands
 ![Screenshot 2025-03-14 145928](https://github.com/user-attachments/assets/11958490-af0c-4a2d-b567-abbd6d5b5e05)
 
 
-  
-
 ## nmap –script smtp-enum-users.nse <hostname>
 
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
-
-
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/a2b10581-7b1a-4daf-9dd1-4119ca2caa30)
