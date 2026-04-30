@@ -77,8 +77,7 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
-![Screenshot 2025-03-14 135719](https://github.com/user-attachments/assets/c2504f21-7b1c-4dfd-a092-78aa56602c8f)
-
+<img width="1718" height="612" alt="image" src="https://github.com/user-attachments/assets/c09ab4ea-8993-4bc6-9d3a-02f37329d851" />
 
 
 
@@ -100,8 +99,10 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 ## OUTPUT 
-![image](https://github.com/user-attachments/assets/23e199a9-cd1a-41c9-b58b-434b399e738b)
-![image](https://github.com/user-attachments/assets/1f40320a-6c88-49ea-a0d0-0238bd8c186c)
+<img width="748" height="944" alt="image" src="https://github.com/user-attachments/assets/e3c4fe1b-e153-4d28-8c6e-66dce2369a8c" />
+
+<img width="722" height="346" alt="image" src="https://github.com/user-attachments/assets/e929bf14-7373-4b38-8beb-d497ba949cd9" />
+
 
 
 ## smtp-user-enum
@@ -112,7 +113,7 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/4de173a5-1635-49aa-a4ad-18f4e14d4414)
+<img width="653" height="354" alt="image" src="https://github.com/user-attachments/assets/97b3edae-1cae-4843-aaa1-7a8b67876cb3" />
 
 
 ## Telnet for smtp enumeration
