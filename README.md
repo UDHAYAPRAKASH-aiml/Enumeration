@@ -100,7 +100,6 @@ Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 ## OUTPUT 
 <img width="748" height="944" alt="image" src="https://github.com/user-attachments/assets/e3c4fe1b-e153-4d28-8c6e-66dce2369a8c" />
-
 <img width="722" height="346" alt="image" src="https://github.com/user-attachments/assets/e929bf14-7373-4b38-8beb-d497ba949cd9" />
 
 
